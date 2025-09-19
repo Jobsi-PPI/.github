@@ -21,3 +21,5 @@ sin fricciones técnicas ni procesos complejos.
 - **Backend:** Spring Boot (Web, Security JWT, Data JPA).
 - **BD:** MySQL 8.
 
+## 👥🪪 Owners By: Caes, JuanchoDev, Johnd3r
+
