@@ -1,2 +1,2 @@
 # .github
-Readme para app web: Jobsi
+Readme y toda la documentación de Jobsi
