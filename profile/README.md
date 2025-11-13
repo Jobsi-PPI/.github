@@ -17,7 +17,7 @@ sin fricciones técnicas ni procesos complejos.
 > 🔜 Implementeaciones futuras: chat interno, pagos, gamificación, mapas avanzados, compatibilidad con otras universidades.
 
 ## 🧱 Stack
-- **Frontend:** React (Vite) + HTML/CSS/JS (Tailwind/TS opcional).
+- **Frontend:** React (Vite) + HTML/CSS/JS (Tailwind).
 - **Backend:** Spring Boot (Web, Security JWT, Data JPA).
 - **BD:** MySQL 8.
 
